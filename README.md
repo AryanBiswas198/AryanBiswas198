@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My Name is Aryan Biswas😁</h2>
+<h1 align="left">Hi 👋! My Name is Aryan Biswas😁</h1>
 
 ###
 
-<h3 align="center">Building the future one line at a time, proudly from Pune, India.</h3>
+<h2 align="center">Building the future one line at a time, proudly from Pune, India.</h2>
 
 ###
 
