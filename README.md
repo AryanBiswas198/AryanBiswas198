@@ -1,15 +1,15 @@
 
-<h2 align="left">Hi 👋! My Name is Aryan Biswas😁</h2>
+<h1 align="left">Hi 👋! My Name is Aryan Biswas😁</h1>
 
 ###
 
-<h3 align="center">Building the future one line at a time, proudly from Pune, India.</h3>
+<h2 align="center">Building the future one line at a time, proudly from Pune, India.</h2>
 
 ###
 
 <br clear="both">
 
-<img align="left" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXlja2ZraXY2MTNrcTg2M3F0cjNibm5qYTZ6MHY0aXRscTFqbHgzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+<img align="left" height="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXlja2ZraXY2MTNrcTg2M3F0cjNibm5qYTZ6MHY0aXRscTFqbHgzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
 
@@ -58,10 +58,12 @@
 ###
 
 <br clear="both">
+<br>
+<br>
 
 <div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryanBiswas198&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AryanBiswas198&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AryanBiswas198&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="230" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AryanBiswas198&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="230" alt="languages graph"  />
 </div>
 
 ###
@@ -80,7 +82,7 @@
 
 ###
 
-<img align="left" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Jmc3lvenY3YW91b3FlczFwdzF3eG0zeGo4Y2doczZ3c20zbzU0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o61kf3VMTDCTsf6JWy/giphy.gif"  />
+<img align="left" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Jmc3lvenY3YW91b3FlczFwdzF3eG0zeGo4Y2doczZ3c20zbzU0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o61kf3VMTDCTsf6JWy/giphy.gif"  />
 
 ###
 
@@ -100,6 +102,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AryanBiswas198/AryanBiswas198/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AryanBiswas198/AryanBiswas198/output/snake.svg" alt="Snake animation" /> 
 
 ###
