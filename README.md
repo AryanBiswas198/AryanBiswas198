@@ -86,7 +86,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/aryan-biswass" target="_blank">
+  <a href="https://www.linkedin.com/in/aryan-biswass/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="100" height="70" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/WTF_its_Aryan" target="_blank">
