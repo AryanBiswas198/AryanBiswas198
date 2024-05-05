@@ -57,10 +57,12 @@
 ###
 
 <br clear="both">
+<br>
+<br>
 
 <div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryanBiswas198&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AryanBiswas198&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AryanBiswas198&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="155" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AryanBiswas198&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="155" alt="languages graph"  />
 </div>
 
 ###
@@ -79,7 +81,7 @@
 
 ###
 
-<img align="left" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Jmc3lvenY3YW91b3FlczFwdzF3eG0zeGo4Y2doczZ3c20zbzU0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o61kf3VMTDCTsf6JWy/giphy.gif"  />
+<img align="left" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Jmc3lvenY3YW91b3FlczFwdzF3eG0zeGo4Y2doczZ3c20zbzU0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o61kf3VMTDCTsf6JWy/giphy.gif"  />
 
 ###
 
