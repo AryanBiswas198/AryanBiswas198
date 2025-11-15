@@ -89,12 +89,6 @@
   <a href="https://www.linkedin.com/in/aryan-biswass/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="100" height="70" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/WTF_its_Aryan" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="100" height="70" alt="twitter logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCKFK4tg4s9sH95Opuj6Z_Wg" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="100" height="70" alt="youtube logo"  />
-  </a>
 </div>
 
 ###
