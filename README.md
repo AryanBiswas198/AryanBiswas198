@@ -6,8 +6,8 @@ Building the future one line at a time, proudly from Pune, India 🇮🇳
 </h3>
 
 ---
-<h5 align="left">🎓Undergraduate at ICCS</h5>
-<h5 align="left">💼 Software Engineer at MRC Logistics Pvt Ltd</h5>
+<h4 align="left">🎓Undergraduate at ICCS</h4>
+<h4 align="left">💼 Software Engineer at MRC Logistics Pvt Ltd</h4>
 
 ---
 
@@ -28,14 +28,14 @@ const aryan = () => ({
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=AryanBiswas198&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanBiswas198&layout=compact&theme=dracula" height="180" /> </p>
 
 
-<h6 align="left">
+<h4 align="left">
   💻 LeetCode:
   <a href="https://leetcode.com/u/aryan_b198/" target="_blank">
     <u>aryan_b198</u>
   </a>
-</h6>
+</h4>
 
-<h6 align="left">
+<h4 align="left">
   🔗 LinkedIn:
   <a href="https://in.linkedin.com/in/aryan-biswass" target="_blank">
     <u>Aryan Biswas</u>
@@ -47,7 +47,7 @@ const aryan = () => ({
       <u>aryanb198@gmail.com</u>
     </a>
   </span>
-</h6>
+</h4>
 
 <h4>💡<i>Let’s connect, learn, and build amazing things together! </i></h4>
 
