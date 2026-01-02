@@ -1,100 +1,60 @@
-<h1 align="left">Hi 👋! My Name is Aryan Biswas😁</h1>
+<h1 align="left">Hi 👋, I'm Aryan Biswas</h1>
 
-###
 
-<h2 align="center">Building the future one line at a time, proudly from Pune, India.</h2>
+<h3 align="left">
+Building the future one line at a time, proudly from Pune, India 🇮🇳
+</h3>
 
-###
+---
+<h5 align="left">🎓Undergraduate at ICCS</h5>
+<h5 align="left">💼 Software Engineer at MRC Logistics Pvt Ltd</h5>
 
-<br clear="both">
+---
 
-<img align="left" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXlja2ZraXY2MTNrcTg2M3F0cjNibm5qYTZ6MHY0aXRscTFqbHgzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+```js
+const aryan = () => ({
+  pronouns: "He/Him",
+  location: "Pune, India 🇮🇳",
+  languages: ["C++", "JavaScript", "TypeScript", "Python", "Java"],
+  frontend: ["React", "Next.js", "React Native", "Redux", "Styled Components", "Tailwind CSS", "HTML", "CSS"],
+  backend: ["Node.js", "Express.js", "FastAPI", "Nest.js"],
+  databases: ["MySQL", "MongoDB"],
+  tools: ["Git", "GitHub", "Docker", "Figma", "NPM"],
+  currentFocus: "Building scalable full-stack & cross-platform applications",
+  mindset: "Learning, building, and improving every day 🚀"
+});
+```
 
-###
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=AryanBiswas198&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanBiswas198&layout=compact&theme=dracula" height="180" /> </p>
 
-<div align="right">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="30" alt="babel logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-</div>
 
-###
-
-<br clear="both">
-<br>
-<br>
-
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryanBiswas198&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="190" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AryanBiswas198&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="190" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img align="left" src="https://profile-counter.glitch.me/AryanBiswas198/count.svg?"  />
-
-###
-
-<!-- <div align="center">
-  <a href="https://open.spotify.com/user/31g46m4gkygr2w4mmolzwyzao5ei">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31g46m4gkygr2w4mmolzwyzao5ei&count=3&unique=true" alt="Spotify recently played"  />
+<h6 align="left">
+  💻 LeetCode:
+  <a href="https://leetcode.com/u/aryan_b198/" target="_blank">
+    <u>aryan_b198</u>
   </a>
-</div> -->
+</h6>
 
-###
-
-<img align="left" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Jmc3lvenY3YW91b3FlczFwdzF3eG0zeGo4Y2doczZ3c20zbzU0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o61kf3VMTDCTsf6JWy/giphy.gif"  />
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/aryan-biswass/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="100" height="70" alt="linkedin logo"  />
+<h6 align="left">
+  🔗 LinkedIn:
+  <a href="https://in.linkedin.com/in/aryan-biswass" target="_blank">
+    <u>Aryan Biswas</u>
   </a>
-</div>
 
-###
+  <span style="float:right;">
+    📧 Email:
+    <a href="mailto:aryanb198@gmail.com">
+      <u>aryanb198@gmail.com</u>
+    </a>
+  </span>
+</h6>
 
-<br clear="both">
+<h4>💡<i>Let’s connect, learn, and build amazing things together! </i></h4>
 
-<img src="https://raw.githubusercontent.com/AryanBiswas198/AryanBiswas198/output/snake.svg" alt="Snake animation" />
+<p>
+  <img align="left" height="180" src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" />
+  <img align="left" height="180" src="https://user-images.githubusercontent.com/74038190/229223143-574f6669-d12e-47b4-8d51-f7083e3dc399.gif" />
+</p>
 
-###
+
+
